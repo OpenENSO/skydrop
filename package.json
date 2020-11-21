@@ -1,0 +1,31 @@
+{
+  "name": "skydropper",
+  "version": "1.0.0",
+  "description": "quick sharing add-on for avasky",
+  "private": "true",
+  "scripts": {
+    "test": "skydrops"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenENSO/skydrop.git"
+  },
+  "keywords": [
+    "decentralized",
+    "skynet",
+    "skydrop"
+  ],
+  "author": "OpenENSO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenENSO/skydrop/issues"
+  },
+  "homepage": "https://github.com/OpenENSO/skydrop#readme",
+  "devDependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "skynet-js": "^2.9.0"
+  }
+}
